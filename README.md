@@ -139,7 +139,7 @@ The main relationships are:
 ![Skills](screenshots/skills.png)
 
 ### Skill Details
-![Skill Details](screenshots/skill-details.png)
+![Skill Details](screenshots/skills-details.png)
 
 ### Projects
 ![Projects](screenshots/projects.png)
@@ -147,8 +147,8 @@ The main relationships are:
 ### Project Details
 ![Project Details](screenshots/project-details.png)
 
-### Search Results
-![Search Results](screenshots/search.png)
+### Search
+![Search](screenshots/search.png)
 
 ### Developer Connections
 ![Developer Connections](screenshots/connections.png)
