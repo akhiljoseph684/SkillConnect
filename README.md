@@ -10,7 +10,7 @@ Frontend:
 https://skill-connect-kappa.vercel.app/
 
 Backend API:
-https://skill-connect-kappa.vercel.app/
+https://skillconnect-b8sd.onrender.com/
 
 ## GitHub Repository
 
