@@ -87,7 +87,6 @@ const DeveloperDetails = () => {
           ← Back to developers
         </Link>
 
-        {/* Developer profile */}
 
         <section className="profile-header card">
           <div className="profile-avatar">
@@ -107,7 +106,6 @@ const DeveloperDetails = () => {
           </div>
         </section>
 
-        {/* Skills */}
 
         <section className="details-section">
           <div className="section-title">
@@ -139,7 +137,6 @@ const DeveloperDetails = () => {
           )}
         </section>
 
-        {/* Projects */}
 
         <section className="details-section">
           <div className="section-title">
@@ -175,7 +172,6 @@ const DeveloperDetails = () => {
           )}
         </section>
 
-        {/* Connections */}
 
         <section className="details-section">
           <div className="section-title">

@@ -88,7 +88,6 @@ const ProjectDetails = () => {
           ← Back to projects
         </Link>
 
-        {/* Project Header */}
 
         <section className="card project-detail-header">
           <div className="project-detail-icon">
@@ -104,7 +103,6 @@ const ProjectDetails = () => {
           </div>
         </section>
 
-        {/* Developers */}
 
         <section className="details-section">
           <div className="section-title">
@@ -148,7 +146,6 @@ const ProjectDetails = () => {
           )}
         </section>
 
-        {/* Technologies */}
 
         <section className="details-section">
           <div className="section-title">
