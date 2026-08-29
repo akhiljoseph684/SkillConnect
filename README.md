@@ -138,8 +138,14 @@ The main relationships are:
 ### Skills
 ![Skills](screenshots/skills.png)
 
+### Skill Details
+![Skill Details](screenshots/skill-details.png)
+
 ### Projects
 ![Projects](screenshots/projects.png)
+
+### Project Details
+![Project Details](screenshots/project-details.png)
 
 ### Search Results
 ![Search Results](screenshots/search.png)
